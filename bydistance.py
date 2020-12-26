@@ -72,7 +72,3 @@ for i in range(1,21):
         continue
     
 
-#overhead:11/20
-#sliding:6/20
-#static:12/20
-#total:29/60=48.3%
